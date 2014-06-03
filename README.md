@@ -18,6 +18,7 @@ One can specify range of IPs by simply giving the range: 172.31.104.24-172.31.10
 
 Ex:
 port_scanner -pA 172.31.104.24-172.31.104.70
+
 port_scanner -p22 172.31.104.24-172.31.104.70
 
 
