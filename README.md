@@ -26,7 +26,7 @@ To scan all the ports of the host/hosts, simply use -pA.
 
 	$ port_scanner -pA 172.31.104.24
 
-One can specify range of IPs by simply giving the range: 172.31.104.24-172.31.104.70
+One can specify range of IPs by simply giving the range:
 
 	$ port_scanner -pA 172.31.104.24-172.31.104.70
 	$ port_scanner -p22 172.31.104.24-172.31.104.70
